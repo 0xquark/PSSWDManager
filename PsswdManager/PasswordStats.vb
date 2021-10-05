@@ -1,5 +1,5 @@
 ﻿
-'Written by TrinityCoder From Hf
+'Written by 0xQuark
 'Credits to me and Microsoft
 'Please leave these credits in and don't be a leech! :)
 
