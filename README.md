@@ -10,3 +10,7 @@ Add a url to the url field, add your username for the site and either generate a
 ### Features
 Passwords are hashed with Rijndaelcrypt and stored locally on your pc. 
 
+### Screenshots
+
+![shot1](https://github.com/0xenliven/PSSWDManager/blob/main/Img1.png)
+![shot2](https://github.com/0xenliven/PSSWDManager/blob/main/img2.png)
