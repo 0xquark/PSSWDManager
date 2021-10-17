@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Basic Express 2010
+
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Password Manager", "Password Manager\Password Manager.vbproj", "{2DC9BF43-FD33-466E-993B-9EA1EEC3DA9D}"
 EndProject
 Global
